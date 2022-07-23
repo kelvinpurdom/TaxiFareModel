@@ -1,9 +1,7 @@
 # Data analysis
-- Document here the project: TaxiFareModel
-- Description: Project Description
-- Data Source:
-- Type of analysis:
-
+- The project: Taxi Fare Model
+- Description: building a model to estimate price of Taxi's in New York from point A to B
+- Data Source: Taxi Fare Kaggle database
 
 # Startup the project
 
