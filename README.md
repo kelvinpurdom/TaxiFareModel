@@ -1,11 +1,9 @@
 # Taxi Fare Model
 
+#### building a model to estimate price of Taxi fares in New York from point A to B, using a Kaggle Database.
 
-- The project: Taxi Fare Model
-- Description: building a model to estimate price of Taxi's in New York from point A to B
-- Data Source: Taxi Fare Kaggle database
 
-# Startup the project
+Startup the project
 
 The initial setup.
 
@@ -43,7 +41,7 @@ cd tmp
 TaxiFareModel-run
 ```
 
-# Install
+Install
 
 Go to `https://github.com/{group}/TaxiFareModel` to see the project, manage issues,
 setup you ssh public key, ...
