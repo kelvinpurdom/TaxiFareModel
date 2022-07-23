@@ -1,4 +1,6 @@
-# Data analysis
+# Taxi Fare Model
+
+
 - The project: Taxi Fare Model
 - Description: building a model to estimate price of Taxi's in New York from point A to B
 - Data Source: Taxi Fare Kaggle database
