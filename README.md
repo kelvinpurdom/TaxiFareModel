@@ -1,4 +1,7 @@
+
 # Taxi Fare Model
+
+![new-york-city-times-square-et-taxis-jaune](https://user-images.githubusercontent.com/96483815/180597591-5594a6d4-b837-4165-ae16-0e35c11fa50d.jpeg)
 
 #### building a model to estimate price of Taxi fares in New York from point A to B, using a Kaggle Database.
 
