@@ -11,6 +11,7 @@ from memoized_property import memoized_property
 from mlflow.tracking import MlflowClient
 from TaxiFareModel.data import get_data, clean_data
 from sklearn.model_selection import train_test_split
+import numpy as np
 
 EXPERIMENT_NAME = "[DE] [Berlin] [kelvinpurdom] TaxiFareModel version 2"
 MLFLOW_URI = "https://mlflow.lewagon.ai/"
